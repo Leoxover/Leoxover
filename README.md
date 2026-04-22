@@ -9,7 +9,7 @@ I'm an enthusiastic student passionate about self-improvement and teamwork. I lo
 - Always striving to improve and pick up new skills
 
 ## 🏆 Favorite Project
-- FlapGem — My top project so far!
+- Homap — My top project so far!
 
 ## 💼 Skills
 - Python, Java, SQL *(beginner/intermediate)*
